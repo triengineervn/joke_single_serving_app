@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186870698580",
+    "project_id": "jokee-single-serving-app",
+    "storage_bucket": "jokee-single-serving-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186870698580:android:f163226caebfe4270b93c1",
+        "android_client_info": {
+          "package_name": "com.example.jokee_single_serving_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186870698580-b9vp1n7otdm71asteaen4qir0gg0ob14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBat-y6xQ5tirf7odjB2L5Ql98gPvUskNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186870698580-b9vp1n7otdm71asteaen4qir0gg0ob14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
