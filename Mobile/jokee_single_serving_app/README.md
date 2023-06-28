@@ -2,6 +2,7 @@
 
 A Joke Single Serving App - Flutter project.
 This is a Flutter App to create a single serving APP that displays jokes for user to vote.
+The project is actually run on Redmi note 7 and pixel 2 emulator phones.
 
 ## Requirements
 This app will display a single joke for the user to read.
