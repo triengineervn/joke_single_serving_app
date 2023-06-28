@@ -45,8 +45,6 @@
 // + Find even elements in array
 // + Find odd elements in array
 
-import 'dart:io';
-
 void main() {
   List<int> arr = getInputArray();
 
