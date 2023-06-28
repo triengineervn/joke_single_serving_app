@@ -146,7 +146,7 @@ class _JokeScreenState extends State<JokeScreen> {
                             ),
                           ),
                           Expanded(
-                            flex: 15,
+                            flex: 14,
                             child: Center(
                               child: Padding(
                                 padding: const EdgeInsets.symmetric(horizontal: 24),
@@ -204,7 +204,7 @@ class _JokeScreenState extends State<JokeScreen> {
                                       ),
                                       textAlign: TextAlign.center,
                                     ),
-                                    SizedBox(height: 8),
+                                    SizedBox(height: 4),
                                     Text('Copyright 2021 HLS'),
                                   ],
                                 ),
